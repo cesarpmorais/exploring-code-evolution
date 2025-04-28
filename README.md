@@ -76,11 +76,13 @@ Em seguida, adicione o arquivo gerado `index.html` no seu fork.
 
 Por fim, responda as questões abaixo no seu `fork`: 
 
-1. Repositório selecionado: <URL_DO_REPOSITORIO_SELECIONADO_AQUI>
+1. Repositório selecionado: https://github.com/huggingface/transformers
 
-2. Gráfico selecionado: <NOME_DO_GRAFICO_SELECIONADO_AQUI>
+2. Gráfico selecionado: Data Structures
+![alt text](data_structure_graph.png)
   
-3. Explicação: <EXPLICACAO_AQUI>
+3. Explicação: O gráfico aponta a evolução das estruturas de dados Python no repositório Transformers, do Hugging Face.
 
+Todas as estruturas tiveram comportamento uniforme ao longo dos anos, em geral. Todas tiveram aumento de uso ao longo do tempo (uma clara consequência do aumento de linhas de código), a não ser "set", que teve sua frequência diminuída de 2024 para 2025.
 
-
+É interessante apontar que a ordem de preferência das EDs nunca mudou: sempre foi, do mais para o menos usado, list, tuple, dict e set. 
