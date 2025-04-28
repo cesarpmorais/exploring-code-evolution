@@ -79,7 +79,7 @@ Por fim, responda as questões abaixo no seu `fork`:
 1. Repositório selecionado: https://github.com/huggingface/transformers
 
 2. Gráfico selecionado: Data Structures
-![alt text](data_structure_graph.png)
+![alt text](data_structures_graph.png)
   
 3. Explicação: O gráfico aponta a evolução das estruturas de dados Python no repositório Transformers, do Hugging Face.
 
